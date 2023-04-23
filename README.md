@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋, I'm Antonio H.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Antonio-HC&theme=vue&hide_border=true&border_radius=5&background=FDFDFD)](https://git.io/streak-stats)
+
+- 🔭 I’m currently working on Odoo development, python and postgresql
+- 🌱 I’m currently learning about entrepreneurship
 
 <!--
 **Antonio-HC/antonio-hc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
